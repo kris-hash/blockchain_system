@@ -1,0 +1,8 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "elliptic": "^6.5.4"
+  }
+}
